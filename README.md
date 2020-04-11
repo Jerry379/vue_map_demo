@@ -1,24 +1,3 @@
-# vue_map_demo
+# 总结vue项目中使用百度地图遇到的描点错位问题
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[文章](https://www.jianshu.com/p/52cad980c115)
